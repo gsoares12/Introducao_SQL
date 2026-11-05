@@ -29,7 +29,7 @@ para responder a perguntas sobre os dados.
 O conteúdo organizado por módulos, com explicações, exemplos e exercícios, está na pasta
 [curso-sql](curso-sql/README.md). O curso pode ser seguido nesta ordem:
 
-Os [slides das aulas](https://drive.google.com/drive/folders/1LBsMoWo5WGCIGrbBoJ1luB1sgbVKwmub)
+Os [slides das aulas]([https://drive.google.com/drive/folders/1LBsMoWo5WGCIGrbBoJ1luB1sgbVKwmub](https://docs.google.com/presentation/d/1ln0HcXGosq8Yt63W5J9fM8yioo-HbLkm/edit?slide=id.p2#slide=id.p2))
 também estão disponíveis publicamente no Google Drive.
 
 1. [Preparação do ambiente](curso-sql/00-ambiente.md)
